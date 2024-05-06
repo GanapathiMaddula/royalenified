@@ -1,0 +1,141 @@
+.imagesize{
+    height:200px;
+    width:200px;
+}
+.bg-color{
+    background-color:#191a1d;
+}
+
+.logo {
+    height: 50px;
+    width: 150px;
+}
+.card1{
+    background-color:aqua;
+    height:300px;
+    width:400px;
+
+}
+.imagesize1{
+    height:200px;
+    width:200px;
+}
+.table, th, td{
+    border-style:solid;
+    border-width:5px;
+    margin-bottom:20px;
+    border-collapse: collapse;
+}
+.hiy{
+    font-size:30px;
+}
+.th,td,tr{
+    text-align:center;
+    
+}
+td,th{
+    background-color:blue;
+    color:white;
+    font-size:30px;
+    
+    
+}
+table{
+    border-width:10px;
+    border-color:green;
+    border-style: solid;
+    border-radius:5px;
+}
+.navhead{
+    color:red !important;
+    font-size:25px;
+    font-family:"Roboto";
+    font-weight:bold;
+}
+#para{
+    color:white;
+    font-size:15px;
+}
+.card55{
+    background-color:grey;
+    height:330px;
+    
+
+}
+.picsize1{
+    height:250px;
+    width:100%;
+}
+.maincolor{
+    background-color:black;
+
+}
+.para66{
+    color:white;
+    font-size:15px;
+    text-align:center;
+    margin-top:5px;
+
+}
+.para55{
+    color:white;
+    font-size:25px;
+    text-align:center;
+    padding-top:10px;
+
+}
+.card00{
+    background-color:white;
+    height:200px;
+    
+  
+}
+.pic2size{
+    height:300px;
+    width:100%;
+}
+p{
+    color:white;
+    font-size:15px;
+    font-family:"Roboto";
+}
+.head99{
+    color:blue;
+    font-size:20px;
+    text-decoration: underline;
+}
+.card88{
+    background-color:grey;
+    height:40px;
+
+}
+.gana2{
+    font-size:17px;
+    
+}
+.image44{
+    height:300px;
+}
+.card77{
+    background-color:grey;
+    width:100%;
+    height:400;
+}
+.bla{
+    background: white;
+}
+.color2{
+    color:white;
+}
+.p1{
+  font-size:15px;
+}
+.para44{
+    font-weight:bold !important;
+    font-size:30px !important;
+    color:cadetblue !important;
+}
+.colo{
+    color:white;
+    font-size:10px;
+}
